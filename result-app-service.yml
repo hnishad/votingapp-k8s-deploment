@@ -5,7 +5,7 @@ metadat:
     labels:
         name: result-service
         app: demo-voting-app
-specs:
+spec:
     type: : LoadBalancer
     ports:
     - port: 80
